@@ -1,0 +1,23 @@
+{
+  "https://readms.net/manga/tokyo_ghoulre": {
+    "url": "https://readms.net/manga/tokyo_ghoulre",
+    "title": "Tokyo Ghoul:re",
+    "chapter": "156 - Uchikawa",
+    "released": "2018-01-16T05:00:00.000Z",
+    "chapterUrl": "https://readms.net/r/tokyo_ghoulre/156/4826/1"
+  },
+  "https://readms.net/manga/shokugeki_no_souma": {
+    "url": "https://readms.net/manga/shokugeki_no_souma",
+    "title": "Shokugeki no Souma",
+    "chapter": "271 - Son of the Best of His Generation",
+    "released": "2018-07-12T04:00:00.000Z",
+    "chapterUrl": "https://readms.net/r/shokugeki_no_souma/271/5218/1"
+  },
+  "https://readms.net/manga/the_seven_deadly_sins": {
+    "url": "https://readms.net/manga/the_seven_deadly_sins",
+    "title": "The Seven Deadly Sins",
+    "chapter": "274 - The Fallen Angel of Despair, Mael.",
+    "released": "2018-07-09T04:00:00.000Z",
+    "chapterUrl": "https://readms.net/r/the_seven_deadly_sins/274/5208/1"
+  }
+}
